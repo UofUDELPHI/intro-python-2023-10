@@ -1,4 +1,4 @@
-# Introduction to Python for Data Analysis Course Files
+# Introduction to Python for Data Analysis
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UofUDELPHI/intro-python-2023-10/HEAD)
 
